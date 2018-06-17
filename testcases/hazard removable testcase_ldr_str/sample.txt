@@ -1,0 +1,5 @@
+mov r1,#1
+mov r2,#2
+str r1,[r3,#4]
+mov r4,#1
+ldr r5,[r3,#4]
